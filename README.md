@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [nAteX](natexweb.glitch.me/index.html)
+- 🔭 I’m currently working on [nAteX](https://github.com/FrealacOf/nAteXWEB)
 
 - 🌱 I’m currently learning **Designer**
 
+- 👯 I’m looking to collaborate on [nAteX WEB](https://github.com/FrealacOf/nAteXWEB)
+
 - 👨‍💻 All of my projects are available at [natexweb.glitch.me/index.html](natexweb.glitch.me/index.html)
 
-- 📝 I regularly write articles on [Instagram Post](Instagram Post)
+- 📝 I regularly write articles on [Discord](Discord)
 
 - 📫 How to reach me **frealacyt@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
