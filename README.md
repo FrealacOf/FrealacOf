@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Frealac</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
+<img
+        class="rounded"
+        src="https://cdn.glitch.com/44e00422-783e-4e7d-b7a5-9d3e10459807%2Flogo_white_large.png?v=1627850042574"
+        width="150"
+        height="150"
+        style="margin-top: 30px;"
+      />
+      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frealacof&label=Profile%20views&color=0e75b6&style=flat" alt="frealacof" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frealacof" alt="frealacof" /></a> </p>
