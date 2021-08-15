@@ -7,7 +7,7 @@
         width="150"
         href="https://natexweb.glitch.me/"
         height="150"
-        style="margin-top: 300px;"
+        style="margin-center: 300px;"
       />
 
 
