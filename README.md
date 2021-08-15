@@ -17,7 +17,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<a href="https://discord.com/api/oauth2/authorize?client_id=863196296935243787&redirect_uri=https%3A%2F%2Fdiscord.com%2Foauth2%2Fauthorize%3Fclient_id%3D863196296935243787%26scope%3Dbot%26permissions%3D8589934591&response_type=code&scope=guilds.join" style="margin: 5px;background-color: var(--main-color);border-color: var(--main-color);border-radius: 10px;color: black;"type="button">Invite Me</a>
+
+<a href="https://discord.com/api/oauth2/authorize?client_id=863196296935243787&redirect_uri=https%3A%2F%2Fdiscord.com%2Foauth2%2Fauthorize%3Fclient_id%3D863196296935243787%26scope%3Dbot%26permissions%3D8589934591&response_type=code&scope=guilds.join" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="frealac" height="300" width="400" /></a>
 
 - 🔭 I’m currently working on [nAteX](https://github.com/FrealacOf/nAteXWEB)
 
