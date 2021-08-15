@@ -9,16 +9,15 @@
         height="150"
         style="margin-top: 30px;"
       />
-      
+
+
+<a href="https://discord.com/api/oauth2/authorize?client_id=863196296935243787&redirect_uri=https%3A%2F%2Fdiscord.com%2Foauth2%2Fauthorize%3Fclient_id%3D863196296935243787%26scope%3Dbot%26permissions%3D8589934591&response_type=code&scope=guilds.join" target="blank"><img align="center" src="https://media.discordapp.net/attachments/574293861896290343/876476443046060092/Capture.PNG" height="100" width="200" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frealacof&label=Profile%20views&color=0e75b6&style=flat" alt="frealacof" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frealacof" alt="frealacof" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-<a href="https://discord.com/api/oauth2/authorize?client_id=863196296935243787&redirect_uri=https%3A%2F%2Fdiscord.com%2Foauth2%2Fauthorize%3Fclient_id%3D863196296935243787%26scope%3Dbot%26permissions%3D8589934591&response_type=code&scope=guilds.join" target="blank"><img align="center" src="https://media.discordapp.net/attachments/574293861896290343/876476443046060092/Capture.PNG" height="100" width="200" /></a>
 
 - 🔭 I’m currently working on [nAteX](https://github.com/FrealacOf/nAteXWEB)
 
