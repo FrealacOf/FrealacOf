@@ -5,6 +5,7 @@
         class="rounded"
         src="https://cdn.glitch.com/44e00422-783e-4e7d-b7a5-9d3e10459807%2Flogo_white_large.png?v=1627850042574"
         width="150"
+        href="https://natexweb.glitch.me/"
         height="150"
         style="margin-top: 30px;"
       />
