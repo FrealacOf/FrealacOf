@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Braydon's GitHub Banner](./asset/img.jpg)](https://natexweb.glitch.me/index.html)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
