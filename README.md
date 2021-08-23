@@ -35,20 +35,20 @@ Want to know more about me? [Check out my portfolio.](https://natexweb.glitch.me
 
 <br>
 
-<a href="https://github.com/FrealacOf/github-view">
-  <img align="center" style="margin:0.5rem" src="https://media.discordapp.net/attachments/574293861896290343/879306327913021440/9919.png" />
+<a href="https://github.com/FrealacOf/github-view">GITHUB VIEW
+  
 </a>
 
 <br>
 
-<a href="https://github.com/FrealacOf/nAteXBOT">
-  <img align="center" style="margin:0.5rem" src="https://media.discordapp.net/attachments/863200886782951476/871498053125820436/logo_white_large.png?width=585&height=676" />
+<a href="https://github.com/FrealacOf/nAteXBOT">nAteXBOT
+  
 </a>
 
 <br>
 
-<a href="https://github.com/FrealacOf/nAteXWEB">
-  <img align="center" style="margin:0.5rem" src="http://www.cds07.fr/wp-content/uploads/sites/7/2020/03/website-logo-png.png" />
+<a href="https://github.com/FrealacOf/nAteXWEB">nAteXWEB
+  
 </a>
 <br>
 <br>
@@ -129,8 +129,3 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
 
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
