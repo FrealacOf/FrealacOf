@@ -1,6 +1,6 @@
 [![Braydon's GitHub Banner](./asset/img.jpg)](https://natexweb.glitch.me/index.html)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frealacof&label=Profile%20views&color=0e75b6&style=flat" alt="frealacof" /> </p>
 
@@ -19,7 +19,7 @@ Hey there 👋
 
 I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [Check out my portfolio.](https://natexweb.glitch.me/index.html)
 
 ## 📝 Latest Blog Posts
 
