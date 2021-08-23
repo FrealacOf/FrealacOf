@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./asset/img.jpg)](https://natexweb.glitch.me/index.html)
+[![Braydon's GitHub Banner](./asset/img.jpg)](https://frealac-dev.glitch.me/)
 
 <h3 align="center">A passionate frontend developer from France</h3>
 
@@ -19,7 +19,7 @@ Hey there 👋
 
 I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://natexweb.glitch.me/index.html)
+Want to know more about me? [Check out my portfolio.](https://frealac-dev.glitch.me/)
 
 ## 📝 Latest Blog Posts
 
