@@ -61,6 +61,10 @@ Want to know more about me? [Check out my portfolio.](https://frealac-dev.glitch
 
 </a>
 <br>
+<a href="https://github.com/FrealacOf/password_generator">PassWord Generator
+
+</a>
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
